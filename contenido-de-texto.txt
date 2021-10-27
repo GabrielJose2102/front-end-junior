@@ -1,0 +1,97 @@
+Desarrollo web:
+
+Todav�a hay muchas personas que no saben que es lo que significa
+ frontend en el �mbito web, es normal en casos, en los que las
+ personas no son profesionales del sector web, lo malo es cuando
+ te encuentras personas que s�, son profesionales del sector y
+ a�n no tienen muy claro lo que significa, y es m�s,hay casos
+ tambi�n que suelen creer que lo entienden cuando en realidad
+ tienen una idea equivocada.
+
+El desarrollo web Front-end consiste en la conversi�n de datos
+ en una interfaz gr�fica para que el usuario pueda ver e
+ interactuar con la informaci�n de forma digital usando HTML,
+ CSS y JavaScript.
+
+ Lenguajes de desarrollado web:
+
+ En la actualidad, existe una gran cantidad de lenguajes de 
+ programación enfocados al desarrollo web. En sus orígenes,
+ estos lenguajes tenían un formato estático. Sin embargo, 
+ con el paso de los años y la evolución a la hora de crear 
+ páginas web han evolucionado en lenguajes dinámicos. Estos 
+ nuevos avances permiten al usuario interaccionar más con la 
+ página y mejorar la experiencia en la navegación, con lo que ya
+ no es un mero tablón que muestra información.
+
+Como hemos dicho, existen muchos lenguajes. pero hay 3 que sobresalen
+como tendencia y son: (HTML, Css, JavaScript).
+
+
+Hyper Text Markup Language (HTML):
+
+HTML, siglas en ingl�s de Hyper Text Markup Language
+ (lenguaje de marcas de hipertexto), es la columna vertebral
+ de cualquier proceso de desarrollo web, sin el cual las
+ p�ginas web no existir�an. Hipertexto significa que el texto
+ tiene enlaces, denominados hiperv�nculos, incrustados en el
+ mismo. Cuando el usuario hace clic en una palabra o una frase
+ que tiene un hiperv�nculo, se realiza una llamada a otra p�gina
+ web. El lenguaje de marcas indica que el texto puede convertirse
+ en im�genes, tablas, enlaces, y otras representaciones.
+ El c�digo HTML es el que provee un marco general de cu�l ser�
+ el aspecto del sitio. HTML fue desarrollado por Tim Berners-Lee.
+ La �ltima versi�n de HTML se llama HTML5 y se public� en 28 de
+ octubre de 2014, por recomendaci�n de W3C. Esta versi�n
+ contiene nuevas y eficientes maneras de manejar elementos como
+ archivos de v�deo y audio.
+
+
+Cascading Style Sheets (CSS):
+
+Las hojas de estilo en cascada, en ingl�s Cascading Style
+ Sheets, controlan la apariencia visual del sitio web y
+ permiten darle un aspecto �nico. Esto se consigue con hojas
+ de estilo que se sobreponen sobre otras reglas de estilo y
+ se lanzan bas�ndose en el tipo de entrada, como el tama�o y
+ la resoluci�n de la pantalla del dispositivo.
+
+
+JavaScript:
+
+JavaScript es un lenguaje de programaci�n imperativa basado en
+ eventos (a diferencia del modelo de programaci�n declarativa
+ de HTML) que se utiliza para transformar una p�gina HTML 
+est�tica en una interfaz din�mica. El c�digo JavaScript puede
+ utilizar Document Object Model (DOM), proporcionado por el
+ est�ndar HTML, para manipular una p�gina web en la respuesta
+ a eventos, como las entradas de usuario.
+
+Utilizando una t�cnica llamada AJAX, el c�digo JavaScript
+ tambi�n puede recoger contenido activamente de la web 
+(independientemente de la p�gina HTML original recibida),
+ y adem�s reacciona ante eventos del lado del servidor, dotando
+ de una naturaleza realmente din�mica a la experiencia de la 
+p�gina web.
+
+Habilidades para el desarrollado web:
+
+Analizar:
+
+ Se refiere a la capacidad de examinar el problema detalladamente
+ y dividirlo por partes para encontrar pequeñas soluciones que den
+ con la solucion total del problema.
+
+
+Resolucion de problemas:
+
+ Una vez detectado el problema por medio del analisis tener la 
+ capacidad de lleagar a solucionar cada parte de la division del
+ problema para llegar a la solucion final.
+
+
+Implementar:
+
+ Ya habiendo analizado el problema y encontrado la solucion solo 
+ falta tener la capacidad de llevar esa solucion a codigo, es decir 
+ tener la habilidad de implementar esa solucion.
